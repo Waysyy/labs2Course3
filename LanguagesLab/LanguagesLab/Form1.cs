@@ -13,7 +13,7 @@ namespace LanguagesLab
         }
         private void Form1_Load(object sender, EventArgs e){}
         public List<ProgrammingLanguage> listLang2 = new List<ProgrammingLanguage>();
-        public static class Deserialization
+        public static class Transformation
         {
             public class Languages : Elements
             {
@@ -41,7 +41,7 @@ namespace LanguagesLab
         }
         public void SetDataGrid()
         {
-            Deserialization.Languages dt = new Deserialization.Languages();
+            Transformation.Languages dt = new Transformation.Languages();
 
             dataGridView1.Columns.Add("Column1", "Name");
             dataGridView1.Columns.Add("Column2", "Appeared");
