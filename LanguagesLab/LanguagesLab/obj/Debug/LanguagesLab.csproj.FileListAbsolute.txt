@@ -1,0 +1,10 @@
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\bin\Debug\LanguagesLab.exe.config
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\bin\Debug\LanguagesLab.exe
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\bin\Debug\LanguagesLab.pdb
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.csproj.AssemblyReference.cache
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.Form1.resources
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.Properties.Resources.resources
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.csproj.GenerateResource.cache
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.csproj.CoreCompileInputs.cache
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.exe
+A:\Users\ntart\source\repos\LanguagesLab\LanguagesLab\obj\Debug\LanguagesLab.pdb
