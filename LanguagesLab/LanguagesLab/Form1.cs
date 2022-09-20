@@ -41,6 +41,8 @@ namespace LanguagesLab
         }
         public void SetDataGrid()
         {
+            dataGridView1.Rows.Clear();
+            dataGridView1.Columns.Clear();
             Transformation.Languages dt = new Transformation.Languages();
 
             dataGridView1.Columns.Add("Column1", "Name");
